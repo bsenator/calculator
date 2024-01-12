@@ -4,5 +4,5 @@
 
 </head>
 <body>
-<img src="https://github.com/bsenator/calculator/assets/69959722/dfd7510e-d8ab-4c75-b84b-0b21c01a4565" alt="Calculator" width="500" height="600">
+<img src="https://github.com/bsenator/calculator/assets/69959722/dfd7510e-d8ab-4c75-b84b-0b21c01a4565" alt="Calculator" width="300" height="300">
 </body>
